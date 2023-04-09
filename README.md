@@ -6,6 +6,8 @@
 
 ## Install
 
+[url](https://www.npmjs.com/package/@carullah/my_button)
+
 ```bash
 npm install --save my_button
 ```
